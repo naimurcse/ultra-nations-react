@@ -1,0 +1,11 @@
+.countryCart {
+    width: 300px;
+    border: 1px solid lightpink;
+    text-align: center;
+    padding: 25px 0;
+    margin: 25px;
+}
+
+.countryCart img {
+    max-width: 250px;
+}
